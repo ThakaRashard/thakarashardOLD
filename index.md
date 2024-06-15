@@ -42,6 +42,11 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+{% include_relative civic.md %}
+{% include_relative watchlist.md %}
+{% include_relative cworknotes.md %}
+
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWROBro" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/QWROBro">
   Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
@@ -100,7 +105,7 @@ On the “Rock the Boat” video’s 20th anniversary, Aaliyah’s stylist, chor
 [Discogs](https://www.discogs.com/release/1223557-Aaliyah-Rock-The-Boat) [BlAcKiE_Beats Hiphop Collection](https://archive.org/details/blackiebeatscollection)
 [Wiki](https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song))
 
-{% include_relative watchlist.md %}
+
 
 [SVG Editor](https://yqnn.github.io/svg-path-editor/)
 ![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
