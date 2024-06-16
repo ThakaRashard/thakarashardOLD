@@ -43,7 +43,7 @@ carousels:
 {% endhighlight %}
 
 
-{% include_relative civic.md %}
+
 {% include_relative watchlist.md %}
 
 
