@@ -45,7 +45,7 @@ carousels:
 
 {% include_relative civic.md %}
 {% include_relative watchlist.md %}
-{% include_relative worknotes.md %}
+
 
 
 ![HelloNasty](https://crypticrock.com/wp-content/uploads/2023/09/hello-nasty-25th-slide.jpg)
@@ -87,7 +87,7 @@ carousels:
   </div>
   </div>
 </div>
-<audio controls  loop autoplay>
+<audio controls loop >
                    <source src="https://archive.org/download/aaliyah-2001/Aaliyah/03-Rock%20The%20Boat.mp3" type="audio/mpeg">
                    Your browser dose not Support the audio Tag
 </audio>
