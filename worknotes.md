@@ -1,16 +1,7 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
 ![a+](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/a-certification-logo-comptia-a-1636574.png)
-[Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](ricothaka.github.io/sf2hfj.save)
-[ Source Code Viewer](https://iplocation.io/view-html-source-code)
-# Good Afternoon Cafeteria 
-im working on a little something cool. Its like that wrist watch flavor on any screen! I think i can make the tweets tile like tumblrs often do with [CSS3 Multi-Column Layout](https://dev.opera.com/articles/css3-multi-column-layout/) ! If thats not the case its still really usable for newspaper style layout for that type of reading ! [csstricksarticle](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/) 
- <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGyYMYN" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/bGyYMYN">
-  Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 
 [https://www.svgviewer.dev/](https://www.svgviewer.dev/) [How to add border/outline/stroke to SVG elements in CSS?](https://stackoverflow.com/questions/18330344/how-to-add-border-outline-stroke-to-svg-elements-in-css)
 ## W3C's Editor
@@ -19,7 +10,7 @@ Amaya is a Web editor, i.e. a tool used to create and update documents directly 
 ### Git fetch
 The git fetch command downloads commits, files, and refs from a remote repository into your local repo
 
-[Git remote](https://www.atlassian.com/git/tutorials/syncing) [Git CheatSheet](file:///C:/Users/pac/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
+[Git remote](https://www.atlassian.com/git/tutorials/syncing) [Git CheatSheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 ![today](https://pbs.twimg.com/media/GP1lEqSboAA8lhy?format=jpg&name=large)
 [Mars Global Surveyor: 7 Years in Orbit!](https://www.msss.com/mars_images/moc/2004/09/12/)
 ## M_R_O CheckiN
