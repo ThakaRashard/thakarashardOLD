@@ -1,5 +1,12 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+
+![xmMuva](https://pbs.twimg.com/media/GQS-2zJaIAAqqp0?format=jpg&name=large)
+ok she is dead in Atlanta #fraud #wirefraud 
+@essence @nasajpl I'm innocent 
+[AlliedUniversdal](@al_15176468018) threatened me on @metrolosangeles with the #PlasticKnuckleGloves and guns I'm sick of them stalking me those women are sex slaves and keep bugging me to tweet to them I'm not a fucking retard
+![Husla](https://pbs.twimg.com/media/GQTB6Ksb0AAgqJ7?format=jpg&name=large) when #Erika was n #Atlanta she did the #AtlantaHousewife thing so @MalaikaJabali !! YEAH I said it these profiles r illegal is @kashdoll !! an she said she wanted to have my baby an @LinkedIn banned me she started calling her self #Mrs_Kelly [DVshowgirlsHV](https://dejavu.com/showgirls-hollywood/)
+
 ![a+](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/a-certification-logo-comptia-a-1636574.png)
 
 
@@ -77,13 +84,6 @@ By default, flex items will all try to fit onto one line. You can change that an
   flex-wrap: nowrap | wrap | wrap-reverse;
 }
 ```
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="OJYxwWw" data-pen-title="flex-wrap demp @css-tricks im following from your article" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/OJYxwWw">
-  flex-wrap demp @css-tricks im following from your article</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
 # Climate tool 4L8tR
 ![NEO](https://neo.gsfc.nasa.gov/about/globes_banner.jpg)
  [Welcome to NASA Earth Observations (NEO)](https://neo.gsfc.nasa.gov/)
@@ -105,7 +105,7 @@ Martian surface frost, made up largely of carbon dioxide, appears blueish-white 
 
 ## Game - [Mars_Odessy](https://store.playstation.com/en-us/concept/233712)
 
-{% include_relative marsmedia.md %}
+
 # IT_CERTS
 [![Microsoft Certification](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GPk4fn_bAAAl1hw?format=jpg&name=4096x4096 "Redirect to homepage")
 
