@@ -1,0 +1,84 @@
+
+[https://www.svgviewer.dev/](https://www.svgviewer.dev/) [How to add border/outline/stroke to SVG elements in CSS?](https://stackoverflow.com/questions/18330344/how-to-add-border-outline-stroke-to-svg-elements-in-css)
+## W3C's Editor
+Amaya is a Web editor, i.e. a tool used to create and update documents directly on the Web. Browsing features are seamlessly integrated with the editing and remote access features in a uniform environment. This follows the original vision of the Web as a space for collaboration and not just a one-way publishing medium...[LearNMoreAMAYA](https://www.w3.org/Amaya/)
+[Aphex Twin - Selected Ambient Works 85-92](https://youtu.be/Xw5AiRVqfqk?si=faGGKO8xltY4SwS-)
+### Git fetch
+The git fetch command downloads commits, files, and refs from a remote repository into your local repo
+
+[Git remote](https://www.atlassian.com/git/tutorials/syncing) [Git CheatSheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+![today](https://pbs.twimg.com/media/GP1lEqSboAA8lhy?format=jpg&name=large)
+[Mars Global Surveyor: 7 Years in Orbit!](https://www.msss.com/mars_images/moc/2004/09/12/)
+## M_R_O CheckiN
+### Dear_Robin_Obrien
+You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
+
+[MRO MARCI WEATHER REPORT FOR THE WEEK OF 10 JANUARY 2022 – 16 JANUARY 2022](https://www.msss.com/msss_images/2022/01/19/)
+<video controls 
+  src="https://www.msss.com/msss_images/2022/01/19/map_movie_220110_220116.mp4"
+  poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://www.msss.com/msss_images/2022/01/19/map_movie_220110_220116.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+<video controls 
+  src="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4"
+  poster="http://www.msss.com/msss_images/icons/mars_map1.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://mastcamz.asu.edu/wp-content/uploads/2020/07/zoom-v1.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+## The scientific eyes of NASA’s Perseverance rover
+[Perssevere](https://mastcamz.asu.edu/wp-content/uploads/2020/07/2.1_Graphic5_PIA23314-768x480.jpg)
+Mastcam-Z is a multi-color, stereo imaging system on NASA’s Perseverance rover. Mastcam-Z can zoom from wide angle to telephoto, take 3-D images and videos, and take photos in up to 11 unique colors, including “human-like” red/green/blue. For those who want more technical details and background about the Mastcam-Z cameras and science investigation, these pages provide lots more information about the goals, design, testing, and performance of the cameras. [TechnicalDetails](https://mastcamz.asu.edu/cameras/tech-specs/)
+![mastcamz](https://mastcamz.asu.edu/wp-content/uploads/2020/07/2.0_Headline1_DSC00130-1024x640.jpg)
+![Sol2715](https://pbs.twimg.com/media/GP0vVihXoAAt7lx?format=jpg&name=large) Sol 2715: [Mars Descent Imager (MARDI)](https://www.msss.com/all_projects/msl-mardi.php)
+This image was taken by Mars Descent Imager (MARDI) onboard NASA's Mars rover Curiosity on Sol 2715 (2020-03-26 23:24:45 UTC).
+### MARS RECONNAISSANCE ORBITER (MRO) MARS COLOR IMAGER (MARCI)
+![MarO](https://www.msss.com/images/science/MARCI140_cb.jpg)
+
+
+### [What is CERES?](https://ceres.larc.nasa.gov/)
+Climate is controlled by the amount of sunlight absorbed by Earth and the amount of infrared energy emitted to space. These quantities–together with their difference–define Earth’s radiation budget (ERB). [Get_Environment_Data](https://ceres.larc.nasa.gov/data/)
+![ceres data set](https://pbs.twimg.com/media/GP03qjvacAA0nTo?format=jpg&name=large)
+
+
+ <div class="mro_banner">
+  <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Nature" style="width:100%;">
+  <div class="innertext-block">
+    <h4>Los Angeles</h4>
+    <p>hole to another universe</p>
+  </div>
+</div>   
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"># <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> i thik <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/NeoNazi?src=hash&amp;ref_src=twsrc%5Etfw">#NeoNazi</a> boyfriend <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@AllCityMurals</a> <a href="https://twitter.com/hashtag/MATT?src=hash&amp;ref_src=twsrc%5Etfw">#MATT</a> <a href="https://twitter.com/hashtag/LETRS?src=hash&amp;ref_src=twsrc%5Etfw">#LETRS</a> <a href="https://twitter.com/BombingScience?ref_src=twsrc%5Etfw">@BombingScience</a> took this photo! i was normal black person like <a href="https://twitter.com/hashtag/TheFreemanBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#TheFreemanBrothers</a> on the boondoks <a href="https://twitter.com/kcrw?ref_src=twsrc%5Etfw">@kcrw</a> <a href="https://twitter.com/mbeKCRW?ref_src=twsrc%5Etfw">@mbeKCRW</a> <a href="https://twitter.com/nprpolitics?ref_src=twsrc%5Etfw">@nprpolitics</a> <a href="https://twitter.com/nprmusic?ref_src=twsrc%5Etfw">@nprmusic</a> the kids was getting humiliated in graff so i gave them pointers <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/04qk0r4cRc">pic.twitter.com/04qk0r4cRc</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718385330523664452?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## About Georgia 
+![Art](https://pbs.twimg.com/media/F9jt_g3akAAfNO3?format=jpg&name=large)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"># <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> i thik <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/NeoNazi?src=hash&amp;ref_src=twsrc%5Etfw">#NeoNazi</a> boyfriend <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@AllCityMurals</a> <a href="https://twitter.com/hashtag/MATT?src=hash&amp;ref_src=twsrc%5Etfw">#MATT</a> <a href="https://twitter.com/hashtag/LETRS?src=hash&amp;ref_src=twsrc%5Etfw">#LETRS</a> <a href="https://twitter.com/BombingScience?ref_src=twsrc%5Etfw">@BombingScience</a> took this photo! i was normal black person like <a href="https://twitter.com/hashtag/TheFreemanBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#TheFreemanBrothers</a> on the boondoks <a href="https://twitter.com/kcrw?ref_src=twsrc%5Etfw">@kcrw</a> <a href="https://twitter.com/mbeKCRW?ref_src=twsrc%5Etfw">@mbeKCRW</a> <a href="https://twitter.com/nprpolitics?ref_src=twsrc%5Etfw">@nprpolitics</a> <a href="https://twitter.com/nprmusic?ref_src=twsrc%5Etfw">@nprmusic</a> the kids was getting humiliated in graff so i gave them pointers <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/04qk0r4cRc">pic.twitter.com/04qk0r4cRc</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718385330523664452?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flex-wrap) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
+![Flex-wrap](https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg)
+By default, flex items will all try to fit onto one line. You can change that and allow the items to wrap as needed with this property. [flex-wrap Examples](https://css-tricks.com/almanac/properties/f/flex-wrap/)
+
+```
+.container {
+  flex-wrap: nowrap | wrap | wrap-reverse;
+}
+```
+# Climate tool 4L8tR
+![NEO](https://neo.gsfc.nasa.gov/about/globes_banner.jpg)
+ [Welcome to NASA Earth Observations (NEO)](https://neo.gsfc.nasa.gov/)
+
+ One of the best places to study Earth is from space. NASA satellites continually orbit the globe, collecting information about Earth’s ocean, atmosphere, and land surfaces. Satellites can even monitor the activity of life forms, such as phytoplankton, from their remote vantage points. Satellite imagery provides the greatest benefit to the most people when it can be analyzed by anyone with an interest. NEO strives to make global satellite imagery as accessible as possible.
+
+<embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> &#39; <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/hashtag/cafeteria?src=hash&amp;ref_src=twsrc%5Etfw">#cafeteria</a> <a href="https://twitter.com/LACountyLibrary?ref_src=twsrc%5Etfw">@LACountyLibrary</a> <a href="https://twitter.com/LASDHQ?ref_src=twsrc%5Etfw">@LASDHQ</a> <a href="https://twitter.com/hashtag/EastLosAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#EastLosAngeles</a> this happened <a href="https://twitter.com/laplcentral?ref_src=twsrc%5Etfw">@laplcentral</a> <a href="https://twitter.com/CENTCOM?ref_src=twsrc%5Etfw">@CENTCOM</a> <a href="https://twitter.com/hashtag/LocalNews?src=hash&amp;ref_src=twsrc%5Etfw">#LocalNews</a> <a href="https://twitter.com/hashtag/NEW%E5%8D%88%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#NEW午後ティー</a> <a href="https://twitter.com/hashtag/MondayMemories?src=hash&amp;ref_src=twsrc%5Etfw">#MondayMemories</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/girlsinrap?ref_src=twsrc%5Etfw">@girlsinrap</a> is <a href="https://twitter.com/hashtag/Cardi?src=hash&amp;ref_src=twsrc%5Etfw">#Cardi</a> on <a href="https://twitter.com/hashtag/Figuroa?src=hash&amp;ref_src=twsrc%5Etfw">#Figuroa</a> ? how about <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> ? <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/hashtag/DTLA?src=hash&amp;ref_src=twsrc%5Etfw">#DTLA</a> <a href="https://twitter.com/hashtag/Hollywood?src=hash&amp;ref_src=twsrc%5Etfw">#Hollywood</a> <a href="https://twitter.com/OnlyFans?ref_src=twsrc%5Etfw">@onlyfans</a> <a href="https://twitter.com/janikalashae?ref_src=twsrc%5Etfw">@janikalashae</a> <a href="https://t.co/GSmDjHOSqY">pic.twitter.com/GSmDjHOSqY</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1800257968799461652?ref_src=twsrc%5Etfw">June 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
