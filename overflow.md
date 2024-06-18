@@ -113,3 +113,148 @@ By default, flex items will all try to fit onto one line. You can change that an
 <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
  <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> &#39; <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/hashtag/cafeteria?src=hash&amp;ref_src=twsrc%5Etfw">#cafeteria</a> <a href="https://twitter.com/LACountyLibrary?ref_src=twsrc%5Etfw">@LACountyLibrary</a> <a href="https://twitter.com/LASDHQ?ref_src=twsrc%5Etfw">@LASDHQ</a> <a href="https://twitter.com/hashtag/EastLosAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#EastLosAngeles</a> this happened <a href="https://twitter.com/laplcentral?ref_src=twsrc%5Etfw">@laplcentral</a> <a href="https://twitter.com/CENTCOM?ref_src=twsrc%5Etfw">@CENTCOM</a> <a href="https://twitter.com/hashtag/LocalNews?src=hash&amp;ref_src=twsrc%5Etfw">#LocalNews</a> <a href="https://twitter.com/hashtag/NEW%E5%8D%88%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#NEW午後ティー</a> <a href="https://twitter.com/hashtag/MondayMemories?src=hash&amp;ref_src=twsrc%5Etfw">#MondayMemories</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/girlsinrap?ref_src=twsrc%5Etfw">@girlsinrap</a> is <a href="https://twitter.com/hashtag/Cardi?src=hash&amp;ref_src=twsrc%5Etfw">#Cardi</a> on <a href="https://twitter.com/hashtag/Figuroa?src=hash&amp;ref_src=twsrc%5Etfw">#Figuroa</a> ? how about <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> ? <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/hashtag/DTLA?src=hash&amp;ref_src=twsrc%5Etfw">#DTLA</a> <a href="https://twitter.com/hashtag/Hollywood?src=hash&amp;ref_src=twsrc%5Etfw">#Hollywood</a> <a href="https://twitter.com/OnlyFans?ref_src=twsrc%5Etfw">@onlyfans</a> <a href="https://twitter.com/janikalashae?ref_src=twsrc%5Etfw">@janikalashae</a> <a href="https://t.co/GSmDjHOSqY">pic.twitter.com/GSmDjHOSqY</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1800257968799461652?ref_src=twsrc%5Etfw">June 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ 
+
+
+
+
+
+
+
+## SPYiNG is why I lost everything and everybody
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Vrijend_paar_naast_kamerscherm-Rijksmuseum_RP-P-2006-272.jpeg">
+<h2><a href="https://www.youtube.com/watch?v=IiTE-Eyx18A">  <em> DJ_SHADOW::BUiLDiNG STEAM FROM A GRAiN_OF_SALT::ENTRODUCiNG ##BREAKBEAT_CLASSiKS</em> </a> </h2>
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/DJ_JOSH_SHADOW_CAN_WE_USE_THIS_ON_OUR_DEMO_FASHiON_BLOG_COMMERCiAL.mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Michael_Zichy_-_Liebe.jpg">
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carracci_Achille_et_Briseis.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carracci_Achille_et_Briseis.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Carracci05.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Carracci05.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Carracci05.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Katsushika_Hokusai_-_Fukujuso.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Carracci_Angelique_et_Medor.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Carracci_Angelique_et_Medor.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/%C3%89douard-Henri_Avril_%285%29.jpg">
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Le_livre_de_la_Marquise_33.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Le_livre_de_la_Marquise_33.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Paul_Avril_-_Les_Sonnetts_Luxurieux_%281892%29_de_Pietro_Aretino%2C_5.jpg" >
+
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zichy_depucelage.jpg">
+
+[Soundgarden - Black Hole Sun](https://www.youtube.com/watch?v=3mbBbFH9fAg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Michael_Zichy-love1.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Satyr_en_nimf_bedrijven_de_liefde-Rijksmuseum_RP-P-2007-240.jpeg/1024px-Satyr_en_nimf_bedrijven_de_liefde-Rijksmuseum_RP-P-2007-240.jpeg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/%C3%89douard-Henri_Avril_%2810%29.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/%C3%89douard-Henri_Avril_%2810%29.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+  <div class="item2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+  <div class="item3"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+  <div class="item4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+
+</div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
