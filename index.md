@@ -42,6 +42,23 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+![android](https://pbs.twimg.com/media/GPfRCYiaIAIsqdw?format=jpg&name=large)
+📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
+[TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
+<p class="office"> {
+  display:block;
+  padding:0%;
+  text-align: left;
+  color:white;
+  background: transparent
+  url(https://us.canvasartrocks.com/cdn/shop/products/Dark_wood_texture_Wall_Mural_Wallpaper_a_1400x.jpg?v=1571715189)
+  ;
+  background-size: cover;
+  border-style: inset;
+  } Wednesday, June 19
+  [God’s] will is that all sorts of people should be saved and come to an accurate knowledge of truth.​—1 Tim. 2:4.
+
+  We cannot read hearts; only “Jehovah examines the motives.” (Prov. 16:2) He loves all kinds of people, from all different backgrounds and cultures. And Jehovah encourages us to “open [our] hearts wide.” (2 Cor. 6:13) We seek to love all in our spiritual family, not to judge them. This also means that we are not to judge those outside the congregation. Would you ever judge a relative who does not share your faith, saying, “That man will never come into the truth”? No, that would be presumptuous, self-righteous. Jehovah is still giving “all people everywhere” an opportunity to repent. (Acts 17:30) Always remember that self-righteousness is a form of unrighteousness. May our love for Jehovah’s standards of righteousness promote joy and inspire others, helping them to draw closer to us and to our God. w22.08 31 ¶20-22</p>
 
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" alt="CuriosityOnMArs">
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg" alt="martianLandscape">
