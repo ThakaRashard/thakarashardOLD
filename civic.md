@@ -7,6 +7,9 @@
   </div>
 </div>
 
+
+![MLKinAFEDORA](https://www.ajc.com/resizer/pve2WuJ2z2Kn32rYlFzD5PKKDh0=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/YSF67CIMV2B7Q6Q6UTFVIQIE7U.jpg)
+[Martin Luther King Jr.’s arrest record in Fulton County to be expunged](https://www.ajc.com/news/martin-luther-king-criminal-record-fulton-cleared/wgGTA9iG7lsx5sVx50eplL/)
 ![type](https://pbs.twimg.com/media/GQEwpgba4AAyXsn?format=jpg&name=large)
 
 ![Helvetica](https://pbs.twimg.com/media/GQD9pDwaQAEU-bs?format=jpg&name=large)
