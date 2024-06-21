@@ -1,5 +1,14 @@
 # [Mars Reconnaissance Orbiter](https://mars.nasa.gov/gallery/images.html)
 
+### WorkingRemote 
+Im not stable in LongBeach right now so im working out of every library on the Subway and LightRail Metrolosangeles lines, Im working on my personal web infrastructure. I lost me Momentum on my M_R_O and Cassini work i was compiling. I keep my favorites in Google Chrome but if i cannot get to a place that will let me use my ChromeProfile im super disabled. Please bear with me! I have Typography work thats not life or death but it got me a logical chance to send a tweet to vogue. I know magazines get taken over so im not a threat to talk to them. But there was friction between me and the girls bodygaurds. They were stalking me. I can swear I saw muna in an issue when i Arrived. I cant talk to Cardi_B! She know everything! I am learning how to turn content into like Magnatiles with [Flexbox](https://www.w3schools.com/css/css3_flexbox_items.asp). I feel so much anger from the public! Im miserable! PPL were poisoning me at the base,m well everyone, a lady talked to me in the supermarket by Mori(Jose pi Place) and said she had Abestos poison from working in #MissionControl Covid all that shits a scam! She had the same symptoms I wake up with at After dealing with Childrens Hospital and Cancer only to find my late wife is with an athlete that has a bigger dick than me...
+
+
+
+### Basic concepts of flexbox
+The flexible box layout module (usually referred to as flexbox) is a one-dimensional layout model for distributing space between items and includes numerous alignment capabilities. This article gives an outline of the main features of flexbox, which we will explore in more detail in the rest of these guides. [readmore](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+[CSS Flex Items](https://www.w3schools.com/css/css3_flexbox_items.asp)
+
 ### LATEFORWORK
 ![CodeFiltering](https://pbs.twimg.com/media/GQTdwj7bkAAdTD9?format=jpg&name=large)
 ```
