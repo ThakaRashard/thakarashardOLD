@@ -7,6 +7,11 @@
   </div>
 </div>
 
+![Trapped](https://pbs.twimg.com/media/GQjrsteakAUWQ2u?format=jpg&name=large)
+
+[Trapped in the Closet: Chapters 1-12](https://www.youtube.com/watch?v=pb7ot4NQ3sQ)
+[Trapped in the Closet: Chapters 13-22](https://youtu.be/HlS7oI6GFZY?si=ak6QJkQxA8KhP4jr)
+[Trapped in the Closet: Chapters 23–33](https://www.youtube.com/watch?v=Wec3E4LI3qI)
 
 ![MLKinAFEDORA](https://www.ajc.com/resizer/pve2WuJ2z2Kn32rYlFzD5PKKDh0=/850x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/YSF67CIMV2B7Q6Q6UTFVIQIE7U.jpg)
 [Martin Luther King Jr.’s arrest record in Fulton County to be expunged](https://www.ajc.com/news/martin-luther-king-criminal-record-fulton-cleared/wgGTA9iG7lsx5sVx50eplL/)
