@@ -43,7 +43,11 @@ carousels:
 {% endhighlight %}
 
 
-
+### Ladies Cypher
+![Monaleo](https://pbs.twimg.com/media/GQnsZcOaMAAARiD?format=jpg&name=large)
+[Ladies Cypher: Kali, Big Boss Vette, Erica Banks, Mello Buckzz, K Carbon, Enchanting, Skylar Blatt](https://www.youtube.com/watch?v=BqTBtiPXrXc)
+[Ladies Cypher](https://youtu.be/O_6qg8Ky6hs?si=EZmH8RmNQiwEhM-y) [All-Women Cypher Featuring Latto, Flo Milli, Monaleo, Maiya The Don and Mello Buckzz](https://youtu.be/fIs7Cv1JQdM?si=5fqy4jcsVFwL7T8w) 
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
 [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
 
 ![android](https://pbs.twimg.com/media/GPfRCYiaIAIsqdw?format=jpg&name=large)
