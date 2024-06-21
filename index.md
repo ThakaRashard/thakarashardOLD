@@ -42,6 +42,10 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
+
 ![android](https://pbs.twimg.com/media/GPfRCYiaIAIsqdw?format=jpg&name=large)
 📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
 [TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)

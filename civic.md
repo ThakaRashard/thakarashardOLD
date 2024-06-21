@@ -7,6 +7,7 @@
   </div>
 </div>
 
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
 ![Trapped](https://pbs.twimg.com/media/GQjrsteakAUWQ2u?format=jpg&name=large)
 
 [Trapped in the Closet: Chapters 1-12](https://www.youtube.com/watch?v=pb7ot4NQ3sQ)
